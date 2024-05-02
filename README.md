@@ -5,5 +5,7 @@
 ![Screenshot from 2024-05-02 10-59-03](https://github.com/TheChatou/02-so_long/assets/144605451/292d93a3-d74c-4174-bd1b-9badcb6eaf16)
 
 Les Tokens et le personnage que j'ai dessiné et animé :
+
 ![token](https://github.com/TheChatou/02-so_long/assets/144605451/e4f92170-b3f9-4ddf-9b54-85b68de9d29f)
+
 ![felix](https://github.com/TheChatou/02-so_long/assets/144605451/bae09c82-2932-48d3-9447-75e0b2f8bf44)
