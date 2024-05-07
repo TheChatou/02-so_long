@@ -1,4 +1,5 @@
 42 Paris - Cercle 02 - Projet so_long.c
+![so_long](https://github.com/TheChatou/02-so_long/assets/144605451/73fdc98c-4b09-44cc-8aff-44ff3e6ad208)
 
 ![chrome-capture-2024-5-2](https://github.com/TheChatou/02-so_long/assets/144605451/02ed689b-7145-40ce-a62a-ce00792e6628)
 ![chrome-capture-2024-5-2 (1)](https://github.com/TheChatou/02-so_long/assets/144605451/ed272a04-e32b-4ace-8aec-e1900544796e)
